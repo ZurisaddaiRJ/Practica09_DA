@@ -4,6 +4,7 @@
  */
 package org.uv.practica09_da.controller;
 
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

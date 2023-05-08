@@ -7,6 +7,7 @@ package org.uv.practica09_da.controller;
 
 
 
+
 public class DTOEmpleado {
     private long clave;
     private String nombre;
